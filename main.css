@@ -40,7 +40,6 @@ h2 {
 
 a {
   color: #4a4e69;
-
 }
 
 b,
@@ -70,6 +69,13 @@ img {
   }
 }
 
+/* contacts */
+.contacts {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+/* end contacts */
 
 /* services */
 .services {
@@ -77,7 +83,7 @@ img {
 }
 
 .services__item {
-  margin-right: 10px;
+  margin-right: 5px;
 }
 
 /* end services */
